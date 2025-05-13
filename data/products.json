@@ -1,0 +1,33 @@
+[
+{
+  "id": 1,
+  "nome": "Camiseta Preta",
+  "preco": 39.90,
+  "descricao": "Camiseta unissex 100% algodão com estampa minimalista.",
+  "detalhes": {
+    "material": "Algodão",
+    "cor": "Preto",
+    "tamanhos": ["P", "M", "G", "GG"],
+    "peso": "200g",
+    "fabricante": "Loja do João",
+    "disponivel": true
+  },
+  "categoria": "Roupas",
+  "imagem": "img/camiseta-preta.jpg"
+},
+  {
+    "id": 2,
+    "nome": "Caneca Branca",
+    "preco": 25.00,
+    "descricao": "Caneca de porcelana branca",
+    "detalhes": {
+      "material": "Porcelana",
+      "cor": "Branco",
+      "peso": "300g",
+      "fabricante": "Loja do João",
+      "disponivel": true
+    },
+    "categoria": "Cozinha",
+    "imagem": "img/caneca.jpg"
+  }
+]
